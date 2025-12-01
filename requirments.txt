@@ -1,0 +1,17 @@
+Example minimal requirements.txt to start:
+
+pandas
+
+numpy
+
+scikit-learn
+
+torch or tensorflow (choose one, we can start with sklearn first)
+
+requests
+
+fastapi or flask (later for API)
+
+pydantic
+
+schedule or APScheduler (for periodic jobs)
